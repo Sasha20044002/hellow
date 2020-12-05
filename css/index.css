@@ -411,7 +411,7 @@ body {
     font-weight: 400;
     font-family: "Arial", sans-serif;
     font-size: 24px;
-    margin: 0 0 17px 0;
+    margin: 0;
     text-align: center;
     display: block;
 }
@@ -587,7 +587,7 @@ body {
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center;
-    padding: 0 0 0 20px;
+    padding: 0;
     box-sizing: border-box;
 }
 
@@ -629,7 +629,7 @@ body {
     margin: 30px 0 0 0;
 }
 
-.contact .icons .text>a {
+.contact .icons>a {
     color: #fff;
     line-height: 24px;
     font-style: normal;
@@ -638,7 +638,7 @@ body {
     font-size: 60px;
     text-decoration: none;
     letter-spacing: 0.025em;
-    margin: 0 5px 0 0;
+    margin: 0;
 }
 
 .contact .icons .text>a:last-child {
